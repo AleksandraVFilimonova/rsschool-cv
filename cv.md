@@ -46,4 +46,4 @@ console.log(sum);
 ## __Languages__
 
 * Russian
-* English
+* English - B1
